@@ -47,7 +47,11 @@
     ],
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "publishType": "local",
+    "publishPath": "file:///C:/Angelo/angelochiriaco.com",
+    "gitHubName": "achiriaco",
+    "gitHubPath": "angelochiriaco-website"
   },
   "pages": {
     "index.html": {
