@@ -9,8 +9,9 @@
 * Resume is hosted on this site in files direcory
 * Need to recreate with out mobrise
 
-Version 0.1.4
+Version 0.1.5
 
 Added Google Anaylitics
 Added Chiriaco.net button
+Updated Google code
 
