@@ -20,3 +20,5 @@ Added Resume page and removed buttons from home page
 Renamed html4 to resume.html
 
 Fix Homepage
+
+Changed Page names and fixed resume page
