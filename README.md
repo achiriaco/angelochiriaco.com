@@ -9,10 +9,12 @@
 * Resume is hosted on this site in files direcory
 * Need to recreate with out mobrise
 
-Version 0.1.6
+Version 0.1.7
 
 Added Google Anaylitics
 Added Chiriaco.net button
 Updated Google code
 
 Added Resume page and removed buttons from home page
+
+Renamed html4 to resume.html
